@@ -1,0 +1,5 @@
+
+aumentar o spawn de asteroides
+fundo novo com estrelas brilhantes (fases diferentes caso a pontuação seja obtida? diferentes sistemas solares? diferentes naves?)
+ajeitar o contador de pontos que nao ta mostrando a pontuação certa no final
+
